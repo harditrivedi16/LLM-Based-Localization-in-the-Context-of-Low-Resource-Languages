@@ -1,6 +1,7 @@
 # LLM-Based-Localization-in-the-Context-of-Low-Resource-Languages
-Paper Name: LLM-Based-Localization-in-the-Context-of-Low-Resource-Languages
-Author Name: Hardi Trivedi, Dr. Jorjeta Jetcheva, Dr. Carlos Rojas. 
+*Paper Name*: LLM-Based-Localization-in-the-Context-of-Low-Resource-Languages
+
+*Author Name*: Hardi Trivedi, Dr. Jorjeta Jetcheva, Dr. Carlos Rojas. 
 
 The paper was accepted and presented at the AIxSET 2024 conference and will be published at IEEE Xplore. 
 
