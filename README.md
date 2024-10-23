@@ -6,9 +6,9 @@
 The paper was accepted and presented at the AIxSET 2024 conference and will be published at IEEE Xplore. 
 
 The following repository contains three documents: 
-(1) The paper
-(2) The IEEE copyright document 
-(3) The Advanced programme of AIxSET conference. 
+  - The paper
+  - The IEEE copyright document
+  - The Advanced programme of AIxSET conference. 
 
 *Abstract*: Recent advancements in large language models
 (LLMs) have enabled the development of systems capable of
